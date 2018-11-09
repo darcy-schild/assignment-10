@@ -6,3 +6,7 @@ body {
 .card {
   width: 18rem;
 }
+
+a {
+  color: #24647b;
+}
